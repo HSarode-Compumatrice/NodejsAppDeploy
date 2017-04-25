@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var express = require('express');
+var express1 = require('express');
 var http = require('http');
 var path = require('path');
 var app = express();
